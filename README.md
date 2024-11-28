@@ -1,1 +1,1 @@
-# PRODIGY_CS_02
+Pixel Manipulation for Image Encryption refers to techniques where the pixel values of an image are altered using mathematical or logical operations to "scramble" the image, making it unreadable or unrecognizable to unauthorized viewers. This manipulation is reversible, allowing decryption to restore the original image.
